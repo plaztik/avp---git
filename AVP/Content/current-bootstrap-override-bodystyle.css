@@ -1,0 +1,9 @@
+﻿#bootstrap-overrides img{
+    padding:3px;
+    width:inherit;
+    height:inherit;
+}
+
+#bootstrap-overrides .navbar{
+
+}
