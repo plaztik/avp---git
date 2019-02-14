@@ -142,8 +142,8 @@ textarea:focus {
 
     .header-logo img {
         width: 100px;
-        height: 38px;
-        background-image: url(../Img/header/2AVPLogo_Main_small.png);
+        height: inherit;
+        background-image: url('../Img/avp-header-logo.png');
     }
 
 /*Header*/
